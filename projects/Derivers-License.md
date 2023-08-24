@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: 
 title: "DeriversLicense"
 date: 2021
 published: true
