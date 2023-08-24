@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Screenshot 2023-08-23 at 6.15.56 PM.png
-title: "DeriversLicense"
+title: "Derivers License"
 date: 2021-05-17
 published: true
 labels:
