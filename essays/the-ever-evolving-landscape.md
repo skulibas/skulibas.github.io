@@ -11,13 +11,10 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Commonalities of Life and Software Engineering
+Similar to the constantly changing field of software engineering, life is a journey characterized by constant development and adaptability. Software engineers manage the constantly changing technological scene in a similar way that we do in life. Both fields require tenacity, a hunger for information, and an unyielding dedication to progress. In this essay, I will discuss my enthusiasm for software engineering as well as the knowledge and abilities I aim to acquire, making comparisons between the dynamic nature of this industry and the unpredictable yet fascinating adventure of life.
 
+## Passion for Software Engineering
 
-
-## What’s a smart question?
-
-
-
-## Conclusion
+## Growth
 
