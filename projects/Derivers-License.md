@@ -13,8 +13,8 @@ summary: "\"Derivers License\" is a song that creatively delves into the topic o
 
 
 <div class="text-center p-4">
-  <img width="200px" src="img/derivers-license-1.png" class="img-thumbnail" >
-  <img width="200px" src="img/derivers-license-2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/derivers-license-1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/derivers-license-2.png" class="img-thumbnail" >
 </div>
 
 "Derivers License" originated as my final calculus project. I harnessed my skills in Adobe After Effects to create a captivating video that showcased the world of mathematics with creative expression. Using Olivia Rodrigo's hit "Drivers License" as the backdrop, I conveyed alculus concepts through visuals, making learning enjoyable and engaging. This project is a testament to the fusion of art and math. It demonstrates the potential when creativity meets technical expertise.
