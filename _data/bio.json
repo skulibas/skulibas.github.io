@@ -49,7 +49,7 @@
       ]
     }
   ],
-  "Work": [
+  "work": [
     {
       "company": "Dave's Ice Cream",
       "position": "All Rounder",
@@ -62,7 +62,7 @@
         "Operated the cash register, processing transactions accurately.",
         "Prepared and served customer orders.",
         "Answered phone calls and provided information as needed.",
-        "Closed the store by restocking cones and cups, washing cutting boards and knives, and sweeping and mopping the floor."
+        "Closed the store by restocking cones and cups, washing utensils, and cleaning the floor."
       ]
     }
   ],
