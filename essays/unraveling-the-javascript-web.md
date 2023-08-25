@@ -24,3 +24,4 @@ as aforementioned, I had prior knowledge of only Java, C, and C++. For instance
 explore ES6, I came to see that these features had significantly improved the language, making code more concise, expressive, and easier to read.
 
 ## CobWods
+The strict time constraints of WODs (Workout of the Day) for coding problems which are evocative of actual technical interviews, can make participating rather stressful. It might be too much to handle, especially for newbies. But having access to practice WODs reduces the pressure by giving us an opportunity to get accustomed to the time-sensitive nature of coding interviews and improve our problem-solving abilities. These practice sessions give you a feeling of readiness and confidence, while they don't completely remove the worry. In the end, these WODs are crucial for training us to successfully navigate technical interviews in our future employment.
