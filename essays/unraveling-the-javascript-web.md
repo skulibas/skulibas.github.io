@@ -11,7 +11,7 @@ labels:
   - ES6
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/hand-drawn-spider-web-on-transparent-background-free-png.webp">
+<img width="500px" class="rounded float-start pe-4" src="../img/hand-drawn-spider-web-on-transparent-background-free-png.webp">
 
 ## Web of Thoughts
 My initial experience with JavaScript prompted me to compare it with my prior experience with Java, C, and C++. Despite significant similarities in its syntax, JavaScript is different due to its semantics. Compared to Java being strongly typed and C & C++'s manual memory allocation, it felt different due to it being considered weakly typed. With variable declarations like "var," "let," and "const," JavaScript's flexibility offered both freedom and confusion. I personally had a hard time understanding when and when not to use the keywords "var" and "let." But with a bit more practice, I can confidently tell the difference. The keyword "var" is considered function-scoped, meaning they can be accessed throughout the entire function on which they were declared. The keyword "let" is block-scoped, meaning they are limited to being accessed within the block. As I continue to explore this powerful language, I'm excited to unravel this powerful language.
