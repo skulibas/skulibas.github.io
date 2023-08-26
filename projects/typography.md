@@ -6,7 +6,7 @@ title: "Graduation Brochure Cover"
 date: 2021-07-26
 published: true
 labels:
-  - Photoshop
+  - Adobe Photoshop
   - Typography
 summary: "A project to make a mock graduation brochure cover for my high school."
 ---
