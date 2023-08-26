@@ -9,7 +9,7 @@ labels:
   - Software Engineer
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codecode.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/codecode.jpg">
 
 One thing that unites software engineering and life is their perpetual evolution. Accepting change and finding innovative solutions are essential in both the software engineering industry and life itself.
 
