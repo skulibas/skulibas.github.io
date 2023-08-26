@@ -4,7 +4,7 @@ type: essay
 title: "The Ever-Evolving Landscape"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-23
-published: false
+published: true
 labels:
   - Software Engineer
 ---
