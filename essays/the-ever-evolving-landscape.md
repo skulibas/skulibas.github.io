@@ -10,6 +10,7 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/codecode.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/artist-paint-clipart-design-illustration-free-png.webp">
 
 One thing that unites software engineering and life is their perpetual evolution. Accepting change and finding innovative solutions are essential in both the software engineering industry and life itself.
 
@@ -22,4 +23,4 @@ My interests in software engineering stem from a strong desire to express myself
 ## Growth
 In the future, I aspire to bridge the gap between my creative instincts and software engineering expertise. I'm determined to master advanced design principles and UX concepts while delving deeper into front-end development. I see myself collaborating with diverse teams to apply my creative insights to a variety of projects. Ultimately, I aim to be a software engineer who merges technical prowess with artistic sensibilities, making a lasting impact in this ever-evolving landscape.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/artist-paint-clipart-design-illustration-free-png.webp">
+
