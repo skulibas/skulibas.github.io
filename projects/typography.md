@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/typogr.png
+image: img/typogra.png
 title: "Graduation Brochure Cover"
 date: 2021-07-26
 published: true
