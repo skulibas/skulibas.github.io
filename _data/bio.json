@@ -29,6 +29,10 @@
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Git/GitHub", "VSCode" ]
     },
+   {
+      "name": "Adobe",
+      "keywords": [ "After Effects", "Photoshop" ]
+    },
     {
       "name": "Soft Skills",
       "keywords": [ "Customer Service", "Time Management", "Independent" ]
