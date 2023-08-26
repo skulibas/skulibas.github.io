@@ -9,9 +9,9 @@ labels:
   - Software Engineer
 ---
 
-<div class="float-start">
-  <img width="350px" class="rounded pe-4" src="../img/codecode.jpg">
-  <img width="200px" class="rounded" src="../img/artist-paint-clipart-design-illustration-free-png.webp">
+<div class="text-center p-4">
+  <img width="300px" src="../img/codecode.jpg" class="img-thumbnail" >
+  <img width="130px" src="../img/artist-paint-clipart-design-illustration-free-png.webp" class="img-thumbnail" >
 </div>
 
 One thing that unites software engineering and life is their perpetual evolution. Accepting change and finding innovative solutions are essential in both the software engineering industry and life itself.
