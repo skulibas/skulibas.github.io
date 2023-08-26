@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Abeautifullyillustratedglossaryoftypographictermsyoushouldknow.png
+image: img/typog.png
 title: "Graduation Brochure Cover"
 date: 2021-07-26
 published: true
