@@ -9,7 +9,7 @@ labels:
   - Adobe After Effects
   - Garage Band
   - Calculus
-summary: "\"Derivers License\" is a song that delves into the topic of derivatives. It was composed and directed by me, Shedrick Ulibas, and uses the melody of Olivia Rodrigo's hit song \"Drivers License\" to explore derivatives."
+summary: "\"Derivers License\" is a song that delves into the topic of derivatives. It uses the melody of Olivia Rodrigo's hit song \"Drivers License\" to explore derivatives."
 ---
 
 
