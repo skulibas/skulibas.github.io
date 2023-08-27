@@ -8,7 +8,7 @@ published: true
 labels:
   - Adobe After Effects
   - Film
-summary: "This project reimagines the iconic anime movie "\Your Name"\ by Makoto Shinkai. This project incorporates the track "\Traingazing"\ by Sam Willis into key moments of the film."
+summary: "This project reimagines the iconic anime movie \"Your Name\" by Makoto Shinkai. This project incorporates the track \"Traingazing\" by Sam Willis into key moments of the film."
 ---
 
 
