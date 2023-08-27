@@ -14,10 +14,10 @@ labels:
   <img width="130px" src="../img/artist-paint-clipart-design-illustration-free-png.webp" class="img-thumbnail" >
 </div>
 
-One thing that unites software engineering and life is their perpetual evolution. Accepting change and finding innovative solutions are essential in both the software engineering industry and life itself.
+One thing that unites software engineering and art is their perpetual evolution. In both fields, embracing change and discovering inventive solutions are fundamental aspects of their creative and ever-changing nature.
 
 ## Commonalities
-Similar to the constantly evolving chain we call life, software engineering is a journey characterized by constant development and adaptability. Software engineers manage the constantly changing technological scene in a similar way that we do in life. Both fields require tenacity, a hunger for information, and an unyielding dedication to progress. In this essay, I will discuss my enthusiasm for software engineering as well as the knowledge and abilities I aim to acquire while being in this field.
+Similar to the ever-evolving canvas of art, software engineering is a voyage marked by continuous growth and adaptability. Just as artists navigate the dynamic world of art, software engineers also navigate the evolving technological landscape. Both domains demand perseverance, a thirst for knowledge, and an unwavering commitment to advancement. In this essay, I will delve into my passion for software engineering and explore the skills I aspire to cultivate within this field.
 
 ## Passion
 My interests in software engineering stem from a strong desire to express myself creatively. I've always enjoyed expressing my ideas through art forms such as video editing and artistic design. What interests me in software engineering is the possibility to combine my artistic abilities with technical abilities. I consider software engineering as a blank canvas on which to paint with code, creating solutions to challenging problems while adding a bit of creativity. Whether it's creating user interfaces that are not only functional but also visually appealing, or developing new applications that push the boundaries of user experience, I'm excited to use my creative abilities to elevate software engineering to the level of an art form. 
