@@ -6,7 +6,7 @@
     "email": "skulibas@hawaii.edu",
     "phone": "808-354-6758",
     "website": "https://skulibas.github.io",
-    "summary": "I am a computer science major at the University of Hawaii at Manoa, epected to graduate in Spring of 2025.",
+    "summary": "I am a computer science major at the University of Hawaii at Manoa, expected to graduate in Spring of 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "skulibas", "url": "http://github.com/skulibas" },
@@ -16,8 +16,8 @@
   "interests": [
     { "name": "UX/UI Design" },
     { "name": "Web Development" },
-    { "name": "Software Engineer" },
-    { "name": "Data Visiualization" },
+    { "name": "Software Engineering" },
+    { "name": "Data Visualization" },
     { "name": "Interactive Installations" }
   ],
  "skills": [
