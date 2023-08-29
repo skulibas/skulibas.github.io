@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/derivers-license.jpg
+image: img/project_1.jpg
 title: "Derivers License"
 date: 2021-05-17
 published: true
