@@ -13,8 +13,9 @@ summary: "\"Derivers License\" is a song that delves into the topic of derivativ
 ---
 
 
-<iframe src="https://www.youtube.com/embed/A1G0Yn_G3fE" title="YouTube video" allowfullscreen></iframe>
-
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/A1G0Yn_G3fE" title="YouTube video" allowfullscreen></iframe>
+</div>
 
 "Derivers License" originated as my final calculus project. I harnessed my skills in Adobe After Effects to create a captivating video that showcased the world of mathematics with creative expression. I also used my skills in Garage Band to produce the song. Using Olivia Rodrigo's hit "Drivers License" as the backdrop, I conveyed calculus concepts through visuals and lyrical content, making learning enjoyable and engaging. This project is a testament to the fusion of art and math. It demonstrates the potential when creativity meets technical expertise.
 
