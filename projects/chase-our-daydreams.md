@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/chasing-edit.jpg
+image: img/project_3.jpg
 title: "Chase Our Daydreams Edit"
 date: 2021-08-14
 published: true
