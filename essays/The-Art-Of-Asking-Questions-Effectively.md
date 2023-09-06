@@ -14,8 +14,8 @@ labels:
 The question titled <a href="https://stackoverflow.com/questions/77050165/find-distance-between-2-turtles-in-python-but-from-only-one-side">"Find distance between 2 turtles in python, but from only one side [closed]"</a> with the 
 accompanying code snippet and description presents several issues that categorize it as a less-than-ideal 
 question according to Raymond's guidelines. Firstly, the question lacks clarity in its objective. While it
-mentions finding the distance between two turtles from only one side, it does not sufficiently explain the 
-specific problem. Furthermore, the code provided does not have critical details about the "player" and 
+mentions finding the distance between two turtles from only one side, it does not explain the 
+specific problem. Furthermore, the code provided does not have details about the "player" and 
 "car_manager" variables, as pointed by one of the answers. It is challenging for the responders to answer
 the question without these informations. Additionally, the question's title and description do not follow the 
 conventions of a well-structured technical inquiry. It is essential to provide concise and detailed information, 
