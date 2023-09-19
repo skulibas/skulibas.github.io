@@ -10,7 +10,7 @@ labels:
   - ESlint
   - IntelliJ
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Theater_Masks_PNG_Transparent_Clipart.png">
 
 Coding standards, perceived as trivial rules, hold a profound significance in software development. While some may view them as nitpicky details about indentation and brace placement, I
 believe that coding standards define the quality of the code.
