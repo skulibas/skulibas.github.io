@@ -30,3 +30,5 @@ in the long run. It'll not only make that green checkmark easier to get, but als
 
 ## The Quote
 “Quality is not act.  It is a habit.” ~Aristotle
+
+Coding standards align remarkably well with Aristotle's philosophy. They represent a framework for cultivating a habit of quality in the codebase. Just as a virtuous person consistently exhibits virtuous behavior, adhering to coding standards consistently produces high-quality code. Blindly following rules, may lead to code that appears well-formatted on the surface. However, without comprehending why specific practices are recommended, developers may not adopt these rules, performing the same mistake again when trialed. This is why it is important to follow coding standards habitually.
