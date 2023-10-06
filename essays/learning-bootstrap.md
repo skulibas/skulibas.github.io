@@ -33,6 +33,6 @@ Unlike my initial experiences, where resizing the window often wreaked havoc on 
 ## Conclusion
 In retrospect, while I have much more to learn, I can greatly appreciate the value of a framework like Bootstrap. What initially appeared as an obstacle became a tool for efficiency and consistency once I understood its intricate documentations. Just like with Adobe After Effects presets, my journey with Bootstrap taught me that embracing a framework's features can lead to remarkable outcomes. As I continue to expand my knowledge, I look forward to exploring new horizons within web development and design, knowing that Bootstrap and similar frameworks will be valuable allies on this.
 
-<img width="100%" src="../img/b5-new-logo.png">
+<img width="100%" src="../img/genki-replication.png">
 
 This is a replication of the Genki Sushi website I made using Bootsrap 5.
