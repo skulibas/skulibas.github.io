@@ -13,7 +13,6 @@ labels:
 
 <img width="600px" class="justify-content-center" src="https://cdn.sanity.io/images/tlr8oxjg/production/cfc0a155378203c4568c54bdc1a99caec378fb28-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
-## Real Essay
 I feel like A.I can either be of good and of bad, like a double-edged sword. The creation and ever-evolving nature of A.I has transformed our lives. However, the duality of A.I brings important questions about its ethical implications, especially in the realm of education.
 
 ## Not so Slay Use of A.I.
