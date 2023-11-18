@@ -68,6 +68,8 @@ Rather than condemning A.I from educational spaces, we should use it as a contem
 
 However, it is crucial to acknowledge a potential pitfall in using ChatGPT: the knowledge base of the chatbot may be outdated or limited to certain topics. This is why relying on these A.I tools can be detremental.
 
+<img src="https://cdn.sanity.io/images/tlr8oxjg/production/cfc0a155378203c4568c54bdc1a99caec378fb28-1456x816.png?w=3840&q=80&fit=clip&auto=format" width="200px />
+
 ## ~CS~ Major Slay
 The prevalence of A.I tools has shifted the way computer science is taught. The allure of quick solutions and automated assistance poses a risk: the production of low-level CS majors. Students, obtaining answers through A.I, may fall into the pitfall of relying solely on these tools to navigate their academic journey. This raises concerns about the understanding and practical skills that students develop. 
 
