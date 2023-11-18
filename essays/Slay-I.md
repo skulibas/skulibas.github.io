@@ -45,3 +45,13 @@ The future role of AI in software engineering education holds promise. Advanceme
 In conclusion, AI has significantly influenced my learning journey in ICS 314, serving as a valuable tool in various aspects of software engineering. The synergistic relationship between AI and human intelligence enhances problem-solving, but a balanced approach is essential. As we look to the future, optimizing the integration of AI in software engineering education requires thoughtful consideration of its strengths, limitations, and the unique contributions of human learners and instructors alike.
 
 ***This essay was written by A.I***
+
+## Real Essay
+In all seriousness, though, I feel like A.I can either be of good and of bad, like a double-edged sword. The creation and ever-evolving nature of A.I. has transformed our lives. However, the duality of A.I brings important questions about its ethical implications, especially in the realm of education.
+
+## Not So Slay Use of A.I.
+I believe the use of A.I. is not a horrible thing that needs to be condemned in educational settings. I actually strongly think that A.I. should be embraced and welcomed, especially in Universities and Schools. However, the reliance on AI pertaining to school work is where I would not consider a *"not so slay use"* of A.I.
+
+One of the issues with relying on A.I. in school work is the disruptance of critical thinking skills. When students turn to A.I. for answers, they might miss out on the problem-solving and analytical skills that are crucial for intellectual development. A.I. provides quick solutions, but the process of solving complex problems independently is important for a deeper understanding of academic content. Relying on A.I. may lead to surface-level learning, blocking the development of skills necessary for growth.
+
+Solving complex problems independently and making mistake in the processs is a great way to learn, I discovered. For instance, while learning Bootstrap in this class, I encountered numerous challenges in designing responsive web pages. Initially, I turned to ChatGPT for assistance with responsiveness. I presented the challenge, seeking help on how to make my web pages adapt to different screen sizes. However, the outcome of this attempt proved the limitations of relying solely on A.I. for codes. ChatGPT suggested using media queries to overwrite Bootstraps built-in media-queries. However, as I implemented these suggestions, I soon realized that it was creating more problems as it changed the responsiveness of the other components of my web page.
