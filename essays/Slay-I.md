@@ -46,6 +46,8 @@ In conclusion, AI has significantly influenced my learning journey in ICS 314, s
 
 ***This essay was written by A.I***
 
+<img width="600px" class="justify-content-center" src="https://cdn.sanity.io/images/tlr8oxjg/production/cfc0a155378203c4568c54bdc1a99caec378fb28-1456x816.png?w=3840&q=80&fit=clip&auto=format">
+
 ## Real Essay
 In all seriousness, though, I feel like A.I can either be of good and of bad, like a double-edged sword. The creation and ever-evolving nature of A.I has transformed our lives. However, the duality of A.I brings important questions about its ethical implications, especially in the realm of education.
 
@@ -67,9 +69,6 @@ Our film project needed meticulous planning, from the script to the scenes itsel
 Rather than condemning A.I from educational spaces, we should use it as a contemporary tool. A.I can create academic contents for instructors, allowing them to redirect their time and energy towards more meaningful interactions. A.I can also allow students to retain information faster when used correctly. Sifting through textbooks and lecture notes is the traditonal way of retaining information. These methods can be time-consuming. ChatGPT, however, provides a direct and immediate response to a question or prompt. By posing a question, students can receive concise and relevant responses, eliminating the need for extensive searches. 
 
 However, it is crucial to acknowledge a potential pitfall in using ChatGPT: the knowledge base of the chatbot may be outdated or limited to certain topics. This is why relying on these A.I tools can be detremental.
-
-<img width="600px" class="justify-content-center" src="https://cdn.sanity.io/images/tlr8oxjg/production/cfc0a155378203c4568c54bdc1a99caec378fb28-1456x816.png?w=3840&q=80&fit=clip&auto=format">
-
 
 ## ~CS~ Major Slay
 The prevalence of A.I tools has shifted the way computer science is taught. The allure of quick solutions and automated assistance poses a risk: the production of low-level CS majors. Students, obtaining answers through A.I, may fall into the pitfall of relying solely on these tools to navigate their academic journey. This raises concerns about the understanding and practical skills that students develop. 
