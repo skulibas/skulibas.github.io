@@ -13,16 +13,20 @@ labels:
 
 <img width="600px" class="justify-content-center" src="https://cdn.sanity.io/images/tlr8oxjg/production/cfc0a155378203c4568c54bdc1a99caec378fb28-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
+## Introduction:
 I feel like A.I can either be of good and of bad, like a double-edged sword. The creation and ever-evolving nature of A.I has transformed our lives. However, the duality of A.I brings important questions about its ethical implications, especially in the realm of education.
 
-## Not so Slay Use of A.I.
+## Personal Experience with AI:
+While learning Bootstrap in this class, I encountered numerous challenges in designing responsive web pages. Initially, I turned to ChatGPT for assistance with responsiveness. I presented the challenge, seeking help on how to make my web pages adapt to different screen sizes. However, the outcome of this attempt proved the limitations of relying solely on A.I for codes. ChatGPT suggested using media queries to overwrite Bootstraps built-in media-queries. However, as I implemented these suggestions, I soon realized that it was creating more problems as it changed the responsiveness of the other components of my web page.
+
+This experience highlights the importance of understanding the frameworks in use and how they operate. Blindly relying on A.I can lead to more problems than there was to begin with. It became clear that while ChatGPT is a powerful tool for generating code snippets and providing general guidance, an understanding of the framework being used is essential for solving the problems that are encountered.
+
+However, one of the instances where ChatGPT proved useful was when delving into various JavaScript methods. The map method, filter, and functions often presented challenges in grasping how they work. By posing specific questions about the functionality and use cases of these methods, ChatGPT provided clear and concise explanations, and even showing the output when the methods are used. Moreover, when pasting code snippets into ChatGPT, I discovered the effectiveness of A.I in explaining these pieces of code. Instead of searching online for how each line of code worked, I was able to readily get the explanation I needed using ChatGPT, cmd + C, and cmd + V.
+
+## Impact on Learning and Understanding:
 I believe the use of A.I is not a horrible thing that needs to be condemned in educational settings. I actually strongly think that A.I should be embraced and welcomed, especially in Universities and Schools. However, the reliance on AI pertaining to school work is where I would not consider a *"not so slay use"* of A.I.
 
 One of the issues with relying on A.I in school work is the disruptance of critical thinking skills. When students turn to A.I for answers, they might miss out on the problem-solving and analytical skills that are crucial for intellectual development. A.I provides quick solutions, but the process of solving complex problems independently is important for a deeper understanding of academic content. Relying on A.I may lead to surface-level learning, blocking the development of skills necessary for growth.
-
-Solving complex problems independently and making mistake in the processs is a great way to learn, I discovered. For instance, while learning Bootstrap in this class, I encountered numerous challenges in designing responsive web pages. Initially, I turned to ChatGPT for assistance with responsiveness. I presented the challenge, seeking help on how to make my web pages adapt to different screen sizes. However, the outcome of this attempt proved the limitations of relying solely on A.I for codes. ChatGPT suggested using media queries to overwrite Bootstraps built-in media-queries. However, as I implemented these suggestions, I soon realized that it was creating more problems as it changed the responsiveness of the other components of my web page.
-
-This experience highlights the importance of understanding the frameworks in use and how they operate. Blindly relying on A.I can lead to more problems than there was to begin with. It became clear that while ChatGPT is a powerful tool for generating code snippets and providing general guidance, an understanding of the framework being used is essential for solving the problems that are encountered.
 
 ## Slaying with A.I. Beyond ICS 314
 The use of A.I extends beyond ICS 314, as I discovered when using chatGPT for film production. Recently, I had a task of creating a project for one of my courses this semester. I decided to use the capabilities of ChatGPT to make a storyboard to make the process a little easier. Little did I know that this use of A.I. and filmmaking would prove to be a game-changer for our project.
