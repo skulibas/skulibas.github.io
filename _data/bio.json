@@ -23,19 +23,19 @@
  "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "React Bootstrap", "HTML", "CSS"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "VSCode" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VSCode", "IntelliJ" ]
     },
    {
       "name": "Adobe",
       "keywords": [ "After Effects", "Photoshop" ]
     },
     {
-      "name": "Soft Skills",
-      "keywords": [ "Customer Service", "Time Management", "Independent" ]
+      "name": "Others",
+      "keywords": [ "Ilocano", "Customer Service", "Time Management", "Independent" ]
     }
   ],
   "education": [
@@ -49,7 +49,9 @@
         "ICS 111 and ICS 211: Intro to Computer Science 1 and 2",
         "ICS 141 and ICS 241: Discrete Mathematics 1 and 2",
         "ICS 212: Program Structure",
-        "ICS 311: Algorithms"
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I"
       ]
     }
   ],
@@ -68,6 +70,21 @@
         "Answered phone calls and provided information as needed.",
         "Closed the store by restocking cones and cups, washing utensils, and cleaning the floor."
       ]
+    },
+    {
+      "company": "STAR GPS",
+      "position": "Assistant Front End Developer",
+      "website": "",
+      "startDate": "Oct. 18, 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Collaborate with a team of developers, specializing in front-end and back-end, to improve and maintain multiple web applications.",
+        "Utilize JavaScript and AngularJS to develop functionalities, improving user experiences.",
+        "Employ Java to retrieve and update data on the back end, ensuring optimal performance and responsiveness of web applications.",
+        "Apply expertise in HTML, CSS, React Bootstrap, and AngularJS to design responsive user interfaces in alignment with project requirements.",
+        "Contribute to the development of high-quality code by writing testing instructions for implemented features."
+      ]
     }
   ],
   "awards": [
@@ -76,5 +93,8 @@
       "date": "Fall 2021, Spring 2022, Fall 2022, Spring 2023",
       "summary": "Students with a 3.5 GPA or above in a semester with no grade of F or W."
     }
+  ],
+  "references": [
+    "Available upon request"
   ]
 }
