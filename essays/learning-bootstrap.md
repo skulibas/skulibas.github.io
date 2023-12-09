@@ -4,7 +4,7 @@ type: essay
 title: "Learning Bootstrap: From Frustration to Appreciation"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-01
-published: true
+draft: true
 labels:
   - Web Development
   - UI Framework

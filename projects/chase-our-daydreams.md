@@ -4,7 +4,7 @@ type: project
 image: img/project_3.jpg
 title: "Chase Our Daydreams Edit"
 date: 2021-08-14
-published: true
+published: false
 labels:
   - Adobe After Effects
   - Film

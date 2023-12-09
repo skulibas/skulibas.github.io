@@ -75,7 +75,7 @@
       "company": "STAR GPS",
       "position": "Assistant Front End Developer",
       "website": "",
-      "startDate": "Oct. 18, 2023",
+      "startDate": "10-18-2023",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -95,6 +95,8 @@
     }
   ],
   "references": [
-    "Available upon request"
+    {
+      "summary": "Available upon request"
+    }
   ]
 }
