@@ -4,7 +4,7 @@ type: essay
 title: "Bridging the Gap: Software Development and Creative Media"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-24
-published: true
+published: false
 labels:
   - Software Engineer
   - Creative Media

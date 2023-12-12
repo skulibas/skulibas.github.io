@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
-draft: true
+published: true
 labels:
   - Software Engineer
   - Reflection

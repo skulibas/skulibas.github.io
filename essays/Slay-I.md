@@ -4,7 +4,7 @@ type: essay
 title: "slAy.I"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-17
-published: true
+published: false
 labels:
   - A.I
   - Github Copilot

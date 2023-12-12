@@ -4,7 +4,7 @@ type: essay
 title: "The Art of Asking Questions Effectively"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-draft: true
+published: false
 labels:
   - Stack Overflow
   - Technical Questions

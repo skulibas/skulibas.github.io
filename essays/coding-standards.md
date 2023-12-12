@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: High Quality Codes"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-18
-draft: true
+published: true
 labels:
   - Software Engineer
   - ESlint
