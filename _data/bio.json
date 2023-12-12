@@ -56,6 +56,21 @@
     }
   ],
   "work": [
+    }
+     "company": "STAR GPS",
+      "position": "Assistant Front End Developer",
+      "website": "",
+      "startDate": "10-18-2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Collaborate with a team of developers, specializing in front-end and back-end, to improve and maintain multiple web applications.",
+        "Utilize JavaScript and AngularJS to develop functionalities, improving user experiences.",
+        "Employ Java to retrieve and update data on the back end, ensuring optimal performance and responsiveness of web applications.",
+        "Apply expertise in HTML, CSS, React Bootstrap, and AngularJS to design responsive user interfaces in alignment with project requirements.",
+        "Contribute to the development of high-quality code by writing testing instructions for implemented features."
+      ]
+    },
     {
       "company": "Dave's Ice Cream",
       "position": "All Rounder",
@@ -70,21 +85,6 @@
         "Answered phone calls and provided information as needed.",
         "Closed the store by restocking cones and cups, washing utensils, and cleaning the floor."
       ]
-    },
-    {
-      "company": "STAR GPS",
-      "position": "Assistant Front End Developer",
-      "website": "",
-      "startDate": "10-18-2023",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Collaborate with a team of developers, specializing in front-end and back-end, to improve and maintain multiple web applications.",
-        "Utilize JavaScript and AngularJS to develop functionalities, improving user experiences.",
-        "Employ Java to retrieve and update data on the back end, ensuring optimal performance and responsiveness of web applications.",
-        "Apply expertise in HTML, CSS, React Bootstrap, and AngularJS to design responsive user interfaces in alignment with project requirements.",
-        "Contribute to the development of high-quality code by writing testing instructions for implemented features."
-      ]
     }
   ],
   "awards": [
@@ -96,7 +96,7 @@
   ],
   "references": [
     {
-      "summary": "Available upon request"
+      "name": "Available upon request"
     }
   ]
 }
