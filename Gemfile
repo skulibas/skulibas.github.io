@@ -12,4 +12,3 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
-gem "ffi", "= 1.16.3"
